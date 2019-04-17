@@ -1,0 +1,30 @@
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\bin\Debug\Gas_Station.exe.config
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\bin\Debug\Gas_Station.exe
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\bin\Debug\Gas_Station.pdb
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csprojAssemblyReference.cache
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\obj\Debug\Gas_Station.Form1.resources
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\obj\Debug\Gas_Station.Properties.Resources.resources
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csproj.GenerateResource.cache
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csproj.CoreCompileInputs.cache
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\obj\Debug\Gas_Station.exe
+C:\Users\alp_g\OneDrive\Desktop\SC CALC\Gas_Station\Gas_Station\obj\Debug\Gas_Station.pdb
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\bin\Debug\Gas_Station.exe.config
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\bin\Debug\Gas_Station.exe
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\bin\Debug\Gas_Station.pdb
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csprojAssemblyReference.cache
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\obj\Debug\Gas_Station.Form1.resources
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\obj\Debug\Gas_Station.Properties.Resources.resources
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csproj.GenerateResource.cache
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csproj.CoreCompileInputs.cache
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\obj\Debug\Gas_Station.exe
+C:\Users\alp_g\OneDrive\Desktop\C\Gas_Station\Gas_Station\obj\Debug\Gas_Station.pdb
+C:\Gas_Station\Gas_Station\bin\Debug\Gas_Station.exe.config
+C:\Gas_Station\Gas_Station\bin\Debug\Gas_Station.exe
+C:\Gas_Station\Gas_Station\bin\Debug\Gas_Station.pdb
+C:\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csprojAssemblyReference.cache
+C:\Gas_Station\Gas_Station\obj\Debug\Gas_Station.Form1.resources
+C:\Gas_Station\Gas_Station\obj\Debug\Gas_Station.Properties.Resources.resources
+C:\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csproj.GenerateResource.cache
+C:\Gas_Station\Gas_Station\obj\Debug\Gas_Station.csproj.CoreCompileInputs.cache
+C:\Gas_Station\Gas_Station\obj\Debug\Gas_Station.exe
+C:\Gas_Station\Gas_Station\obj\Debug\Gas_Station.pdb
