@@ -356,6 +356,7 @@ namespace Gas_Station
             txt_fiyat_yaz();
             progressbar_update();
             numericUpDown_value();
+            //
 
             string[] yakit_turleri = { "Gasoline (95)", "Gasoline (97)", "Diesel", "Euro Diesel", "LPG" };
             comboBox1.Items.AddRange(yakit_turleri);
